@@ -1,0 +1,10 @@
+# global .gitignore - referenced from ~/.gitconfig
+
+# Intellij
+.idea
+
+# VSCode
+.vscode
+
+# jenv
+.java-version
